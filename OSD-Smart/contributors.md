@@ -73,7 +73,7 @@
 - Sarah Williamson
 - Sayali Naval (https://github.com/sayalinaval)
 - Shahana
-- Shannon Liou
+- Shannon Liou 
 - Shannon Lu
 - Sharmy-r
 - Sheila Pinto
